@@ -1,0 +1,16 @@
+.spinner{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.collapse .card-body{
+    background-color: thistle;
+    color: black;
+}
+
